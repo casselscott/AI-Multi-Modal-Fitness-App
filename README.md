@@ -79,6 +79,9 @@ OpenAI GPT-4o for unified vision and language understanding
 Whisper API for real-time speech-to-text conversion
 TTS API for natural voice responses and coaching
 
+https://youtu.be/60R5Rf-TJpk
+
+
 
 Plotly for interactive data visualization and metrics tracking
 Streamlit for rapid deployment and cross-platform compatibility
