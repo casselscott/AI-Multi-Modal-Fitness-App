@@ -1,3 +1,8 @@
+<video src="
+https://youtu.be/60R5Rf-TJpk?si=WLwOFJ-S6T-yYlX8" autoplay loop muted playsinline width="100%"></video>
+
+
+
 🏋️ Multimodal Fitness AI Coach
 
 📊 Project Overview
